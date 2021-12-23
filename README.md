@@ -28,7 +28,7 @@ We have curated a set of instructional links and useful videos to understand the
 You will find a number of examples, python notebooks and sample exercises in the github repository. You cannot edit it. But you can fork the examples repository and then run the examples in your own github account -- separate from the organization of the class. It will be your responsibility to keep your local version of examples up to date.  Take a look at https://gist.github.com/CristinaSolana/1885435  and https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork
 
 # Python Environment
-For example, a very simple way to set anaconda python is to install it on your machine and then create an environment. Just follow the instructions at https://github.com/vu-topics-in-big-data-2021/class-python-environment Alternatively, you can also just use [google colab](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c). See instructions in the instruction folder on bright space.
+For example, a very simple way to set anaconda python is to install it on your machine and then create an environment. Just follow the instructions at [in this folder](https://github.com/vu-topics-in-big-data-2022/lectures/tree/main/python-environment). You can also use [google colab](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c). See instructions in the instruction folder on bright space.
 
 # Course Outline 
 
