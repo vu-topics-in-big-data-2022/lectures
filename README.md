@@ -4,7 +4,7 @@ The goal of this class is to cover the concepts and recent progress made in the 
 
  * https://smarttransit.ai/
  * https://statresp.ai
- * https://github.com/smarttransit-ai/transit-occupancy-dashboard 
+ 
 
  # Expectations
 
@@ -32,7 +32,7 @@ For example, a very simple way to set anaconda python is to install it on your m
 
 # Course Outline 
 
-Please see the [schedule](https://docs.google.com/spreadsheets/d/1S6dYhV9UzUiSuenGvq8ULp_EZlxMD_NGOgtBXjxoBUI/edit?usp=sharing)
+Please see the [schedule](https://docs.google.com/spreadsheets/d/1lVN63CJKj9vMEaiLfaM6hQHxMHNqOzdE-ETO6w-rRtI/edit?usp=sharing)
 
 ![course schedule](schedule.png)
 
@@ -40,10 +40,9 @@ The schedule is also available as a [pdf in the repository](schedule-of-the-clas
 
 ## Instructors
 
-- Prof. [Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey) (Lead Instructor) (Available by Appointments on Fridays 2-3 PM US Central)
-- Mr. Nithin Guruswamy (PhD Candidate, Role: TA) (Available by appointments 12-1 Central Monday and 3 PM-4PM Central on Wednesday. Zoom Link in Brightspace)
-- Mr. Zhuangwei Kang (PhD Candidate, Role: TA) (Available Tuesday 11 AM-12 PM Central and Thursday 5PM-6PM US Central. Zoom Link in Brightspace)
-- Mr. Riyan Kabir (Role: Undergraduate Grader)
+- Prof. [Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey) (Lead Instructor) (Available by virtual Appointments on Fridays 2-3 PM US Central)
+- Mr. Hunter Baxter (M.S Candidate, Role: TA) ( Details to be Posted)
+- Mr. Pravesh Koirala (PhD Candidate, Role: TA) (Details to be Posted)
 
  
 If you are interested in the research work of the team visit: https://scopelab.ai/
@@ -98,7 +97,4 @@ so that appropriate accommodation may be provided. Without notification,
 your instructors assume that you have no disabilities or seek no
 accommodation.
 
-## Emergency Evacuation Plan
-
- This year the class is online and synchronous. If there is an emergency please inform the instructor and follow localized safety instructions applicable to your condition and scenario.
 
