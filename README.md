@@ -34,7 +34,7 @@ For example, a very simple way to set anaconda python is to install it on your m
 
 Please see the [schedule](https://docs.google.com/spreadsheets/d/1lVN63CJKj9vMEaiLfaM6hQHxMHNqOzdE-ETO6w-rRtI/edit?usp=sharing)
 
-![course schedule](schedule.png)
+![course schedule](schedule-of-the-class.png)
 
 The schedule is also available as a [pdf in the repository](schedule-of-the-class.pdf).
 
