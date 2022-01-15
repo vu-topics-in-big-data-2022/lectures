@@ -25,76 +25,9 @@ We have curated a set of instructional links and useful videos to understand the
 
 # Examples
 
-You will find a number of examples, python notebooks and sample exercises in the github repository. You cannot edit it. But you can fork the examples repository and then run the examples in your own github account -- separate from the organization of the class. It will be your responsibility to keep your local version of examples up to date.  Take a look at https://gist.github.com/CristinaSolana/1885435  and https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork
+You will find a number of examples, python notebooks and sample exercises in the [github repository](https://github.com/vu-topics-in-big-data-2022/examples). You cannot edit it. But you can fork the examples repository and then run the examples in your own github account -- separate from the organization of the class. It will be your responsibility to keep your local version of examples up to date.  Take a look at https://gist.github.com/CristinaSolana/1885435  and https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork
 
 # Python Environment
 For example, a very simple way to set anaconda python is to install it on your machine and then create an environment. Just follow the instructions at [in this folder](https://github.com/vu-topics-in-big-data-2022/lectures/tree/main/python-environment). You can also use [google colab](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c). See instructions in the instruction folder on bright space.
 
-# Course Outline 
-
-Please see the [schedule](https://docs.google.com/spreadsheets/d/1lVN63CJKj9vMEaiLfaM6hQHxMHNqOzdE-ETO6w-rRtI/edit?usp=sharing)
-
-![course schedule](schedule-of-the-class.png)
-
-The schedule is also available as a [pdf in the repository](schedule-of-the-class.pdf).
-
-## Instructors
-
-- Prof. [Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey) (Lead Instructor) (Available by virtual Appointments on Fridays 2-3 PM US Central)
-- Mr. Hunter Baxter (M.S Candidate, Role: TA) ( Details to be Posted)
-- Mr. Pravesh Koirala (PhD Candidate, Role: TA) (Details to be Posted)
-
- 
-If you are interested in the research work of the team visit: https://scopelab.ai/
-
-## Evaluation  Criteria
-
-The following grading criteria are tentative and are
-subject to change. Each graded item in this course will be assigned a
-certain number of points. Your final grade will be computed as the total
-number of points you achieved divided by the number of points possible.
-The instructor reserves the right to apply a curve to the final result.
-
-
-| Category        | Percentage  |
-| ------------- |:-------------:| 
-| Programming Assignments    | 40% | 
-| Paper Reports | 25%|
-| Final Project       | 20% |
-| Quizzes          | 10% |
-| Survey and Class Participation| 5%|
-
-**Important (late submissions):** Submissions will be due by midnight on the day mentioned in the assignment and homework description. Late submissions will be penalized with an automatic 20 percent penalty per day (applied relative to the graded score for the submission). Also, no collaboration is allowed unless explicitly cleared by the Instructors.  Please see the honor policy statement below.
-
-**Honor Policy:** In terms of this course, the basic rule is this -- all work submitted in this class must be done completely on your own without assistance from any person, place, or thing except the instructors or TAs for this course and the course materials, papers provided and course lecture slides. If you have any doubts, ask your instructor for clarification, not another student (not even the teaching assistants).
-
-## Letter Grade Distribution
-
-| Score        | Letter  |
-| ------------- |:-------------:| 
-| >= 93.00    |   A      |
-| 90.00 - 92.99  |  A-   |
-| 87.00 - 89.99 | B+     |
-| 83.00 - 86.99  | B     |
-| 80.00 - 82.99  | B-     |
-| 77.00 - 79.99  | C+  |
-| 73.00 - 76.99  | C  |
-| 70.00 - 72.99  | C-  |
-| 67.00 - 69.99  | D+  |
-| 63.00 - 66.99  | D  |
-| 60.00 - 62.99  | D-  |
-| <= 59.99   |  F  |
-
-The Instructor reserves the right to apply a curve to the final grades.
-
-## Disability Statement
-
-Vanderbilt is committed to equal opportunity
-for students with disabilities. If you have a physical or learning
-disability, you should ask the Opportunity Development Center to assist
-you in identifying yourself to your instructors as having a disability,
-so that appropriate accommodation may be provided. Without notification,
-your instructors assume that you have no disabilities or seek no
-accommodation.
-
-
+For other details, refer to the [brightspace page for the course](https://brightspace.vanderbilt.edu/d2l/le/content/342996/Home).
